@@ -1,2 +1,2 @@
 # Deep-Learning
-Coursera deeplearning.ai specialization coding assignments, gen 1
+Coursera deeplearning.ai specialization coding assignments, alpha gen
